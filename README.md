@@ -100,8 +100,8 @@ Before building the interactive dashboard, a deep-dive exploratory data analysis
 Analysis of monthly patterns revealed strong seasonality, with peak retail demand spiking significantly during the holiday seasons.
 
 <p align="center">
-  <img src="visuals/Monthly Sales Trend.png" alt="Monthly Sales Trend" width="45%"/>
-  <img src="visuals/Monthly Customer Traffic Trend.png" alt="Customer Traffic" width="45%"/>
+  <img src="Monthly Sales Trend.png" alt="Monthly Sales Trend" width="45%"/>
+  <img src="Monthly Customer Traffic Trend.png" alt="Customer Traffic" width="45%"/>
 </p>
 
 ---
@@ -111,7 +111,7 @@ Evaluating promo campaigns showed a substantial lift in daily revenue, while pro
 
 <p align="center">
   <img src="Promo vs Non-Promo Average Sales.png" alt="Promotion Impact" width="45%"/>
-  <img src="visuals/Competiton Impact.png" alt="Competition Impact" width="45%"/>
+  <img src="Competiton Impact.png" alt="Competition Impact" width="45%"/>
 </p>
 
 ---
@@ -120,7 +120,7 @@ Evaluating promo campaigns showed a substantial lift in daily revenue, while pro
 Filtering the top revenue-generating branches highlighted operational variations and identified key store formats that consistently maximize sales velocity.
 
 <p align="center">
-  <img src="visuals/Top 10 Performing Stores.png" alt="Top Stores Performance" width="60%"/>
+  <img src="Top 10 Performing Stores.png" alt="Top Stores Performance" width="60%"/>
 </p>
 
 ---
