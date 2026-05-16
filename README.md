@@ -92,14 +92,36 @@ Feature engineering included:
 ## Exploratory Data Analysis
 Performed analytical visualization and business exploration including:
 
-- Monthly sales trend analysis
-- Customer traffic trend analysis
-- Promotion impact analysis
-- Holiday sales comparison
-- Store type performance analysis
-- Top 10 revenue-generating store analysis
-- Competition impact analysis
-- Assortment-based sales analysis
+## Exploratory Data Analysis
+
+Before building the interactive dashboard, a deep-dive exploratory data analysis was conducted in Python to uncover raw trends, distributions, and seasonal patterns.
+
+### 1. Sales & Customer Traffic Trends
+Analysis of monthly patterns revealed strong seasonality, with peak retail demand spiking significantly during the holiday seasons.
+
+<p align="center">
+  <img src="visuals/Monthly_Sales_Trend.png" alt="Monthly Sales Trend" width="45%"/>
+  <img src="visuals/Customer_Traffic.png" alt="Customer Traffic" width="45%"/>
+</p>
+
+---
+
+### 2. Promotional & Competitive Impact
+Evaluating promo campaigns showed a substantial lift in daily revenue, while proximity to competitors created distinct shifts in store performance benchmarks.
+
+<p align="center">
+  <img src="visuals/Promotion_Impact.png" alt="Promotion Impact" width="45%"/>
+  <img src="visuals/Competition_Impact.png" alt="Competition Impact" width="45%"/>
+</p>
+
+---
+
+### 3. Store Performance Metrics
+Filtering the top revenue-generating branches highlighted operational variations and identified key store formats that consistently maximize sales velocity.
+
+<p align="center">
+  <img src="visuals/Top_Stores.png" alt="Top Stores Performance" width="60%"/>
+</p>
 
 ---
 
