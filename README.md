@@ -167,7 +167,7 @@ Interactive Power BI dashboard includes:
 ---
 
 ## Dashboard Preview
-<img width="100%" alt="Dashboard Preview" src="Retail_Demand_Forecasting_Time_Series_Analytics_Dashboard.png">
+<img width="100%" alt="Dashboard Preview" src="Retail_Demand_Forecasting_Time_Series_Analytics_Dashboard.jpg">
 
 ---
 
