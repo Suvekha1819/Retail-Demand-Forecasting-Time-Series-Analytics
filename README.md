@@ -100,8 +100,8 @@ Before building the interactive dashboard, a deep-dive exploratory data analysis
 Analysis of monthly patterns revealed strong seasonality, with peak retail demand spiking significantly during the holiday seasons.
 
 <p align="center">
-  <img src="visuals/Monthly_Sales_Trend.png" alt="Monthly Sales Trend" width="45%"/>
-  <img src="visuals/Customer_Traffic.png" alt="Customer Traffic" width="45%"/>
+  <img src="visuals/Monthly Sales Trend.png" alt="Monthly Sales Trend" width="45%"/>
+  <img src="visuals/Monthly Customer Traffic Trend.png" alt="Customer Traffic" width="45%"/>
 </p>
 
 ---
@@ -110,8 +110,8 @@ Analysis of monthly patterns revealed strong seasonality, with peak retail deman
 Evaluating promo campaigns showed a substantial lift in daily revenue, while proximity to competitors created distinct shifts in store performance benchmarks.
 
 <p align="center">
-  <img src="visuals/Promotion_Impact.png" alt="Promotion Impact" width="45%"/>
-  <img src="visuals/Competition_Impact.png" alt="Competition Impact" width="45%"/>
+  <img src="Promo vs Non-Promo Average Sales.png" alt="Promotion Impact" width="45%"/>
+  <img src="visuals/Competiton Impact.png" alt="Competition Impact" width="45%"/>
 </p>
 
 ---
@@ -120,7 +120,7 @@ Evaluating promo campaigns showed a substantial lift in daily revenue, while pro
 Filtering the top revenue-generating branches highlighted operational variations and identified key store formats that consistently maximize sales velocity.
 
 <p align="center">
-  <img src="visuals/Top_Stores.png" alt="Top Stores Performance" width="60%"/>
+  <img src="visuals/Top 10 Performing Stores.png" alt="Top Stores Performance" width="60%"/>
 </p>
 
 ---
