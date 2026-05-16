@@ -227,4 +227,4 @@ Retail-Demand-Forecasting-Time-Series-Analytics/
 ---
 
 ## Author
-**Jayanth**
+**Raman Suvekha**
